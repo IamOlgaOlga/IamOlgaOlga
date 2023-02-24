@@ -1,4 +1,3 @@
-![backround](resources/night_backround.png)
 # Olga Ostrikova 
 
 **`Software Developer`** 
