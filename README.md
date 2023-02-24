@@ -13,7 +13,7 @@ I am Software Developer with 7+ years of experience in international IT companie
  
  ---
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -34,7 +34,7 @@ I am Software Developer with 7+ years of experience in international IT companie
 #
 
 
-### 📊 Stats
+### Stats
 
 ![Olga's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamolgaolga&show_icons=true&theme=gruvbox)
 
