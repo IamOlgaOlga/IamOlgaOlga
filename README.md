@@ -1,8 +1,27 @@
 # Olga Ostrikova 
+ 
+**`🚀 Experienced Software Engineer | Problem Solver | Continuous Learner`** 
 
-**`Software Developer`** 
+Hello there! I'm a seasoned software engineer with over 7 years of hands-on experience in the dynamic world of international IT. Having honed my skills at major players like Dell Technologies and a financial tech powerhouse, I bring a wealth of expertise to the table. <a href="http://iamolgaostrikova.com/" 
+            target="_blank" 
+            className="text-blue-500 dark:text-fuchsia-300 hover:underline underline-offset-2 decoration-2 decoration-fuchsia-300 dark:decoration-blue-300"             rel="noreferrer noopener">
+      Here you can find my portfolio website!</a>
 
-I am Software Developer with 7+ years of experience in international IT companies.
+**What Sets Me Apart:**
+
+✨ Diverse Industry Exposure: With a rich background in major companies like Dell Technologies and a leading financial tech firm, I bring a versatile skill set to the table.
+
+💻 Technical Mastery: Specializing in backend development, I excel in building robust services from scratch using Java, SpringBoot, and more.
+
+📈 Strategic Optimization: I've successfully optimized algorithms for storage systems, driving significant profit increases for the organizations I've served.
+
+**Why work with me:**
+
+🧠 Passionate Learner: I thrive on challenges and relish the opportunity to delve into new technologies. My coding journey is marked by a commitment to continuous learning, ensuring I stay at the forefront of industry trends.
+
+💡 Innovative Solutions: I'm not just a coder; I'm a problem solver. I take pride in approaching each task with creativity and innovation, delivering solutions that go beyond expectations.
+
+🌐 Global Perspective: Having worked in the international IT arena, I bring a global perspective to every project. I understand the nuances of diverse markets and leverage this insight to create tailored solutions.
 
  <p align="left">
       <a href="https://www.linkedin.com/in/iamolgaostrikova" 
@@ -10,8 +29,15 @@ I am Software Developer with 7+ years of experience in international IT companie
             className="text-blue-500 dark:text-fuchsia-300 hover:underline underline-offset-2 decoration-2 decoration-fuchsia-300 dark:decoration-blue-300"             rel="noreferrer noopener">
       LinkedIn profile</a>
  </p>
+
+  <p align="left">
+      <a href="https://www.upwork.com/freelancers/~010a2cec131003e5ee" 
+            target="_blank" 
+            className="text-blue-500 dark:text-fuchsia-300 hover:underline underline-offset-2 decoration-2 decoration-fuchsia-300 dark:decoration-blue-300"             rel="noreferrer noopener">
+      Upwork profile</a>
+ </p>
  
- ---
+#
 
 ### Languages and Tools
 
